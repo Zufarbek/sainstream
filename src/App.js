@@ -1,6 +1,6 @@
 import React from 'react'
-import Home from './pages/Home'
-import MovieDetails from './pages/MovieDetails'
+import Home from './pages/home'
+import MovieDetails from './pages/movie-details'
 
 export default function App() {
   return (
