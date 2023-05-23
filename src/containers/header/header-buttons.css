@@ -1,0 +1,36 @@
+.header-buttons-component {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 23px;
+}
+
+.header-buttons-component__icon {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-buttons-component__avatar {
+    width: 56px;
+    height: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+}
+
+.header-buttons-component__avatar-icon {
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.header-buttons-component__avatar-arrow {
+    width: 20px;
+    height: 20px;
+}

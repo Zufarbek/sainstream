@@ -1,0 +1,14 @@
+.header-container {
+    background: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 39px 75px;
+    box-sizing: border-box;
+}
+.header-component {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
